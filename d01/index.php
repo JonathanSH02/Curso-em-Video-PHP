@@ -10,7 +10,7 @@
 
 <body>
     <main>
-            <h1>Trabalhando com números aleatórios</h1>
+        <h1>Trabalhando com números aleatórios</h1>
         <?php
             $min = 0;
             $max = 100;
